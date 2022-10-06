@@ -32,7 +32,7 @@ Source: https://github.com/akarhtutkaung/Ray-Casting-Image
 
 This voting system support 3 type of voing; Instant Runoff, Open Party Listing, and Popularity Only. It will generate results for which person has won depending on the type of voting system.
 
-Source: https://github.com/akarhtutkaung/Voting-System/tree/main/Project1
+Source: https://github.com/akarhtutkaung/Voting-System/tree/main/Project2
 
 ### 4. Directory locker
 
