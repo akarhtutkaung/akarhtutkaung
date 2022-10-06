@@ -1,8 +1,8 @@
 ## A little bit about myself
 
-Hello everyone👋, I’m Akar (Ace) Kaung
+Hello everyone👋, I’m Akar (Ace) Kaung and I am from Myanmar.
 
-I’m currently pursuing my Master's degree in Computer Science at University of Minnesota - twin cities
+I’m currently pursuing my Master's degree in Computer Science at University of Minnesota - twin cities.
 
 💪 Specialities: Graphic Design and Virtual Reality
 
