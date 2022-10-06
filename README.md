@@ -8,6 +8,12 @@ I’m currently pursuing my Master's degree in Computer Science at University of
 
 ℹ️ https://www.linkedin.com/in/akar-htut-kaung-00b6bb168
 
+## Research:
+### Topics
+
+1. (On-going) Optimized and Efficient Path Finding Algorithm: Aim for Robots to Serve In Restaurants.
+2. (On-going) Improvement of system design for travelling through virtual reality.
+
 ## Projects:
 ### 1. Back2Town
 Gameplay implementation for NPCs to move toward their destination via shortest path using Dijkstra path planning algorithm.
