@@ -9,8 +9,7 @@ I’m currently pursuing my Master's degree in Computer Science at University of
 ## Research:
 ### Topics
 
-1. (On-going) Optimized and Efficient Path Finding Algorithm: Aim for Robots to Serve In Restaurants.
-2. (On-going) Improvement of system design for travelling through virtual reality.
+1. Optimized and Efficient Path Finding Algorithm: Aim for Robots to Serve In Restaurants.
 
 ## Projects:
 ### 1. Back2Town
