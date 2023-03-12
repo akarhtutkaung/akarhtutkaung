@@ -27,20 +27,27 @@ Source: https://github.com/akarhtutkaung/Space-Warefare
 
 https://user-images.githubusercontent.com/76828992/217699297-2dad98cf-2593-4828-949a-404fb011929e.mp4
 
+### 3. Cloth and Fluid Simulation
 
-### 3. Ray Casting Image
+Employing a multi-rope approach to replicate cloth dynamics, coupled with the capability to interact with virtual impediments.
+
+Source: https://github.com/akarhtutkaung/Cloth-and-Fluid-Simulation
+
+https://user-images.githubusercontent.com/76828992/197096573-77a2bfca-0a2b-4ed7-aac7-8c95e9cb1db9.mp4
+
+### 4. Ray Casting Image
 
 Source: https://github.com/akarhtutkaung/Ray-Casting-Image
 
 ![pic1](https://user-images.githubusercontent.com/76828992/194259950-75a4f0cf-f0f6-4453-8b0c-cbf72f34f68c.jpg)
 
-### 4. Voting System 
+### 5. Voting System 
 
 This voting system support 3 type of voing; Instant Runoff, Open Party Listing, and Popularity Only. It will generate results for which person has won depending on the type of voting system.
 
 Source: https://github.com/akarhtutkaung/Voting-System/tree/main/Project2
 
-### 5. Directory locker
+### 6. Directory locker
 
 Directory locker, where user can encrypt the folder and share the encrypted data to another person so that they can decrypt with their keys to view the content.
 
