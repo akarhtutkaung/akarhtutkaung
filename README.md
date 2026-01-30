@@ -17,7 +17,7 @@
 
 ## Current Projects
 
-- 🦦 **[To Otter Half](https://tootterhalf.web.app/)** - Interactive invitations for love-themed special occasions
+- 🦦 **[To Otter Half](https://tootterhalf.com/)** - Interactive invitations for love-themed special occasions
 - 🚀 **[Space Warfare Simulation](https://akarhtutkaung.github.io/portfolio/Space_Warfare_Simulation/)** - Autonomous intelligent spaceship simulation.
 - 🛸 **Autonomous Drone Transportation Simulation** - Simulation of autonomous passenger drones.  
 - 🏰 **[Back2Town](https://akarhtutkaung.github.io/portfolio/Back2Town/)** - 3D crowd simulation with autonomous agents.  
