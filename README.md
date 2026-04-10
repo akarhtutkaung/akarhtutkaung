@@ -15,8 +15,9 @@
 
 🌐 **Academic Website:** https://akarhtutkaung.github.io/  
 
-## Current Projects
+## Personal Projects
 
+- 🤖🚗 **[RC Gesture Car](https://github.com/akarhtutkaung/Hand_Gesture_Control_System)** - Remote Control Car using Computer Vision movement.
 - 🦦 **[To Otter Half](https://tootterhalf.com/)** - Interactive invitations for love-themed special occasions
 - 🚀 **[Space Warfare Simulation](https://akarhtutkaung.github.io/portfolio/Space_Warfare_Simulation/)** - Autonomous intelligent spaceship simulation.
 - 🛸 **Autonomous Drone Transportation Simulation** - Simulation of autonomous passenger drones.  
