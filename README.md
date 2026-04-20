@@ -28,13 +28,17 @@
 
 ## Work experience
 
-- **Software Engineer — Edirq Inc.**<br>
+- **Edirq Inc — Software Engineer**<br>
   Built a new social platform focused on meaningful connections, ranking logic, and research-driven recommendation systems.
 - **Meta — Contractor, Software QA Tester**<br>
   Tested AR/VR products and prototypes, focusing on performance, usability, and AI features.
 - **Outlier AI — AI Prompt Engineer**<br>
   Designed and refined AI prompts to improve system performance and reliability.
-
+- **University of Minnesota — Graduate Instructor**<br>
+  Taught [CSCI 3081W - Program Design and Development](https://umtc.catalog.prod.coursedog.com/courses/7930761) course for over 1,500 undergraduate students across three semesters, focusing on software engineering principles and collaborative development.
+- **University of Minnesota — Teaching Assistant**<br>
+  Supported Professor [Mattia Fazzini](https://scholar.google.com/citations?user=AgbgDvQAAAAJ&hl=en) in delivering an undergraduate course by facilitating lab discussions, refining instructional materials, and assessing student projects for a class of 150 students.
+  
 ## Research
 
 - **[Analysis of Cloth Simulation Using Sequential and Parallel Processing](https://akarhtutkaung.github.io/publication/Analysis_of_Cloth_Simulation_Using_Sequential_and_Parallel_Processing)**  (2023)<br>
@@ -68,6 +72,6 @@
 [![Website](https://img.shields.io/badge/-akarhtutkaung.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://akarhtutkaung.github.io/)
 [![GitHub](https://img.shields.io/badge/-akarhtutkaung-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akarhtutkaung)
 [![LinkedIn](https://img.shields.io/badge/-Akar_Kaung-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarhtutkaung)
-[![Email](https://img.shields.io/badge/-kaung006%40alumni.umn.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaung006@alumni.umn.edu)
+[![Email](https://img.shields.io/badge/-kaung006%40umn.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaung006@umn.edu)
 
 
