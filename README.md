@@ -17,6 +17,7 @@
 
 ## Personal Projects
 
+- 🤖🚗 **[Robotic Car](https://github.com/akarhtutkaung/robo-pi) | [Client-Web](https://github.com/akarhtutkaung/robo-pi-client)** - Robotic Car that have control and camera/visual AI integrated.
 - 🤖🚗 **[RC Gesture Car](https://github.com/akarhtutkaung/Hand_Gesture_Control_System)** - Remote Control Car using Computer Vision movement.
 - 🦦 **[To Otter Half](https://tootterhalf.com/)** - Interactive invitations for love-themed special occasions
 - 🚀 **[Space Warfare Simulation](https://akarhtutkaung.github.io/portfolio/Space_Warfare_Simulation/)** - Autonomous intelligent spaceship simulation.
